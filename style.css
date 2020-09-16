@@ -1,0 +1,27 @@
+.bg-pink{
+    background-color: #790e8b;
+}
+
+.fa-home {
+    color:rgb(255, 255, 255);
+}
+.height-carousel{
+    max-height: 400px;
+    min-height: 400px;
+}
+
+.icon-redes{font-size: 50px;
+margin-right: 3%;
+margin-top: 3%;
+color: white;
+}
+
+.btn-white{
+    background-color: #790e8b;
+    color: white;
+}
+
+.btn-secondary{
+    background-color: #ef9a9a;
+}
+
